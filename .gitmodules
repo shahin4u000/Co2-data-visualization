@@ -1,3 +1,6 @@
 [submodule "co2-front-end"]
 	path = co2-front-end
 	url = https://github.com/shahin4u000/co2-front-end
+[submodule "co2-backend"]
+	path = co2-backend
+	url = https://github.com/shahin4u000/co2-backend
